@@ -1,6 +1,6 @@
 # 🙈 🙉 🙊 Semantic UI - Sample Admin Dashboard Template
 
-## 😃 Click here for the 👉 [💥LIVE DEMO]()
+## 😃 Click here for the 👉 [💥LIVE DEMO](https://frontendfunn.github.io/semantic-ui-admin-dashboard-template/)
 
 ---
 
