@@ -21,9 +21,18 @@ body ::-webkit-scrollbar {
   float: left;
   margin: 0em 0.5em 0em 0em;
 }
+// updated scrollbar
 .main-content {
   margin-top: 40px;
+  height: calc(100% - 40px); // topnavbar is 40px height
+  overflow-y: auto;
 }
+
+.pusher {
+  overflow: hidden;
+  height: 100%;
+}
+// updated scrollbar
 @media (min-width: 768px) {
   .ui.vertical.menu.sidebar-menu {
     visibility: visible;

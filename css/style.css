@@ -27,6 +27,13 @@ body ::-webkit-scrollbar {
 
 .main-content {
   margin-top: 40px;
+  height: calc(100% - 40px);
+  overflow-y: auto;
+}
+
+.pusher {
+  overflow: hidden;
+  height: 100%;
 }
 
 @media (min-width: 768px) {
